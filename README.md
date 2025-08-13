@@ -1,6 +1,6 @@
-# Hi there, I'm k0n4eniyD0lbo3b
+# Hi there, I'm whateverfault
 ### I'm a Developer
-- :telephone_receiver: Ask me Anything [Here](https://github.com/d0lbo3b/d0lbo3b/issues)
+- Ask me Anything [Here](https://github.com/d0lbo3b/d0lbo3b/issues)
 
 ### Languages I Use:
 ![C#](https://skillicons.dev/icons?i=cs)
